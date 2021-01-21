@@ -22,6 +22,8 @@ package edu.cnm.deepdive.prework;
 // 2. For each new class that you've created above, create an interface that defines
 //    its behavior, then require your class to implement it. Omit one or two methods
 //    and try compiling. What does the error look like?
+//      -> edu.cnm.deepdive.prework.LGk20plus is not abstract and does not override
+//         abstract method ringerVolumeDown() in edu.cnm.deepdive.prework.Phone
 
 import java.util.ArrayList;
 import java.util.Comparator;
